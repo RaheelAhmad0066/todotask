@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39948107945",
+    "project_id": "dmb-pakistan",
+    "storage_bucket": "dmb-pakistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39948107945:android:0efd948b721aba368ee9b8",
+        "android_client_info": {
+          "package_name": "com.dmbchat.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39948107945-r1kq0ld7qtfvpg6olbmg1lu52pis79d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmbchat.example",
+            "certificate_hash": "81acbab5d53c6da52fa0f02ac6e7c847ab8a86c6"
+          }
+        },
+        {
+          "client_id": "39948107945-n1g41fq1n60n87igqn1q9ansacc9b735.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59Phl7pXay7ubsmZf6YHi_aIhjfNQLjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39948107945-n1g41fq1n60n87igqn1q9ansacc9b735.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
